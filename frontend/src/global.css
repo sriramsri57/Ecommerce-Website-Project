@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-ubuntu: Ubuntu;
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
+  --font-size-11xl: 30px;
+  --font-size-41xl: 60px;
+  --font-size-5xl: 24px;
+  --font-size-xs: 12px;
+  --font-size-mini: 15px;
+  --font-size-lg: 18px;
+  --font-size-26xl: 45px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --dark-grey-fashion: #323232;
+  --primary-green-fashion: #004743;
+  --primary-yellow-fashion: #fbd103;
+  --color-whitesmoke-100: #f7f7f7;
+  --color-silver-100: #c4c4c4;
+  --color-silver-200: #c2c2c2;
+  --color-yellowgreen-100: #74ca4d;
+
+  /* Border radiuses */
+  --br-981xl: 1000px;
+  --br-3xs: 10px;
+  --br-xl: 20px;
+}

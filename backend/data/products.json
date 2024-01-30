@@ -1,0 +1,85 @@
+[
+        {
+           "name": "black Tshirt",
+           "price": 124,
+           "description" : "black tshirt full sleeve new trend",
+           "ratings": 4,
+           "images": [ 
+                {
+                   "image": "/images/products/1.jpg"
+                },
+                {
+                  "image": "/images/products/2.webp"
+                }
+                
+           ],
+           "size": "S",
+           "stock": 5,
+           "numOfReviews": 15,
+           "reviews":[]
+       },
+       {
+        "name": "red Tshirt",
+        "price": 125,
+        "description" : " red tshirt full sleeve new trend",
+        "ratings": 4,
+        "images": [ 
+             {
+                "image": "/images/products/2.webp"
+             }
+             
+        ],
+        "size": "XS",
+        "stock": 7,
+        "numOfReviews": 75,
+        "reviews":[]
+    },
+    {
+        "name": "pink Tshirt",
+        "price": 1244,
+        "description" : "pink tshirt full sleeve new trend",
+        "ratings": 3,
+        "images": [ 
+             {
+                "image": "/images/products/3.jpg"
+             }
+             
+        ],
+        "size": "L",
+        "stock": 55,
+        "numOfReviews": 150,
+        "reviews":[]
+    },
+    {
+        "name": "yellow Tshirt",
+        "price": 155,
+        "description" : " yellow tshirt full sleeve new trend",
+        "ratings": 1,
+        "images": [ 
+            {
+                "image": "/images/products/4.jpg"
+            }
+            
+        ],
+        "size": "M",
+        "stock": 76,
+        "numOfReviews": 75,
+        "reviews":[]
+    },
+    {  
+        "name": "navy Tshirt",
+        "price": 1456,
+        "description" : " navy tshirt full sleeve new trend",
+        "ratings": 5,
+        "images": [ 
+            {
+                "image": "/images/products/5.webp"
+            }
+            
+        ],
+        "size": "XL",
+        "stock": 762,
+        "numOfReviews": 75,
+        "reviews":[]
+    }
+]
